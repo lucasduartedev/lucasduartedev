@@ -5,8 +5,9 @@
 ### 😄 Olá! Eu sou o Lucas Santana Duarte 💬
 
 <div>
-  <a href="https://www.linkedin.com/in/lucassantanaduarte/">
+  <a href="https://www.linkedin.com/in/lucassantanaduarte/" target="_blank" rel="noopener noreferrer">
   <img align="center" alt="icon-linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">
+    Linkedin
 </div>
 
 <br/>
@@ -37,12 +38,7 @@
   <img align="center" alt="icon-docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   
   <img align="center" alt="icon-git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
-  
-</div>
-  
-<br/>
-  
-<div style="display: inline_block">
+ 
   <img align="center" alt="icon-mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="icon-postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg">
   <img align="center" alt="icon-mongodb" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
