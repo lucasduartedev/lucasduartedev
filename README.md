@@ -23,6 +23,10 @@
   https://github.com/jmnote/z-icons
   https://www.flaticon.com/br/icones-gratis/github
 -->
+  
+<div>
+  <h2>Tecnologias que uso:</h2>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="icon-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
