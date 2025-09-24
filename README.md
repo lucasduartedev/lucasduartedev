@@ -11,26 +11,8 @@
     Linkedin
 </div>
 
-<br/>
-
-<div>
-  <a href="https://github.com/lucassduarte">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasduartedev&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasduartedev&layout=compact&langs_count=7&theme=merko"/>
-</div>
-
-<!--
-https://github.com/devicons/devicon/tree/master/icons
-https://github.com/jmnote/z-icons
-https://www.flaticon.com/br/icones-gratis/github
--->
-
-
-<div>
-  <h2>Tecnologias que uso:</h2>
-</div>
-
 <div style="display: inline_block"><br>
+  <h2>Tecnologias que uso:</h2>
   <img align="center" alt="icon-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="icon-mongodb" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -48,10 +30,27 @@ https://www.flaticon.com/br/icones-gratis/github
   <img align="center" alt="icon-tomcat" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg">
   <img align="center" alt="icon-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="icon-mongodb" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
-
+  
   -->
 
 </div>
+
+<br/>
+
+<div>
+  <a href="https://github.com/lucassduarte">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasduartedev&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasduartedev&layout=compact&langs_count=7&theme=merko"/>
+</div>
+
+<!--
+https://github.com/devicons/devicon/tree/master/icons
+https://github.com/jmnote/z-icons
+https://www.flaticon.com/br/icones-gratis/github
+-->
+
+
+
 
 <!--
 
