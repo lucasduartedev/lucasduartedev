@@ -5,11 +5,23 @@
 
 ### 😄 Lucas Santana Duarte 💬
 
+<!--
 <div>
   <a href="https://www.linkedin.com/in/lucassduarte/" target="_blank" rel="noopener noreferrer">
   <img align="center" alt="icon-linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">
     Linkedin
 </div>
+-->
+
+<div> 
+  <a href = "mailto:lucasduartedev@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/lucassduarte/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+</div>
+
 
 <div style="display: inline_block"><br>
   <h2>Tecnologias que uso:</h2>
