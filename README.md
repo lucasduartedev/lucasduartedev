@@ -16,6 +16,9 @@
 </div>
 
 <br />
+Projetos: <a href="https://pagina-login-2.vercel.app/" target="_blank" rel="noopener noreferrer">portfólio</a>
+
+<br />
 
 ## `Linguagens & Tecnologias`
 <!-- https://github.com/devicons/devicon/tree/master/icons -->
